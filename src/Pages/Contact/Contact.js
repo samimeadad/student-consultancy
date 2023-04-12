@@ -4,6 +4,7 @@ import Address from './Address';
 import HeaderText from './HeaderText';
 import backgroundImage from '../../images/contact/contact-background.jpg';
 import ContactForm from './ContactForm';
+import ScrollToTop from 'react-scroll-to-top';
 
 const Contact = () => {
     return (
@@ -21,6 +22,7 @@ const Contact = () => {
                     </Row>
                 </div>
             </Container>
+            <ScrollToTop smooth />
         </div>
     );
 };

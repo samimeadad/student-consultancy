@@ -1,10 +1,13 @@
 import React from 'react';
+import { Container } from 'react-bootstrap';
+import ScrollToTop from 'react-scroll-to-top';
 
 const AboutUs = () => {
     return (
-        <div>
+        <Container>
             <h1>This is About Us Page</h1>
-        </div>
+            <ScrollToTop smooth />
+        </Container>
     );
 };
 

@@ -1,6 +1,7 @@
 import React from 'react';
 import { Container } from 'react-bootstrap';
 import background from '../../images/career/career-background.jpg';
+import ScrollToTop from 'react-scroll-to-top';
 
 const Career = () => {
     return (
@@ -31,6 +32,7 @@ const Career = () => {
                         If you think you are one them, please send your CV <span><a href="mailto:info@ukstudentconsultants.co.uk" className='text-warning text-decoration-none'>here</a></span>. We will contact you when a suitable vacancy is available.
                     </p>
                 </section>
+                <ScrollToTop smooth />
             </Container>
         </div>
     );

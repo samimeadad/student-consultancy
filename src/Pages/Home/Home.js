@@ -1,9 +1,16 @@
 import React from 'react';
+import TopBanner from './TopBanner';
+import BannerText from './BannerText';
+import MiddleBanner from './MiddleBanner';
+import WhyChooseUs from './WhyChooseUs';
 
 const Home = () => {
     return (
         <div>
-            <h1>This is Home</h1>
+            <TopBanner />
+            <BannerText />
+            <MiddleBanner />
+            <WhyChooseUs />
         </div>
     );
 };

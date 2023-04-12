@@ -8,7 +8,7 @@ import middleImage4 from '../../images/home/MiddleImages/4.jpg';
 const MiddleBanner = () => {
     return (
         <Container className='my-5 text-start'>
-            <Row className='g-5'>
+            <Row className='g-5 my-5'>
                 <Col xs={ 12 } sm={ 12 } md={ 6 } lg={ 6 }>
                     <p className='pt-5'>
                         UK Student Consultants is one of THE BEST Student Consultant Agencies for students who are planning to study in the UK.

@@ -21,7 +21,7 @@ const Footer = () => {
                 <Row>
                     <Col xs={ 12 } sm={ 12 } md={ 4 } lg={ 4 }>
                         <h3 className="text-dark fw-bold text-center mb-3">About UK Student Consultants</h3>
-                        <p className="text-justify text-dark ms-4">As one of the leading consultancy services, UK Student Consultants has access to an extensive network of schools and universities in the United Kingdom. We guarantee guidance and ease to students all over world to help them reach their true potential. Our aim is to connect you with top institutions accross the United Kingdom and to support your development throughout your academic career. Grow together.</p>
+                        <p className="text-justify text-dark ms-2">As one of the leading consultancy services, UK Student Consultants has access to an extensive network of schools and universities in the United Kingdom. We guarantee guidance and ease to students all over world to help them reach their true potential. Our aim is to connect you with top institutions accross the United Kingdom and to support your development throughout your academic career. Grow together.</p>
                     </Col>
 
                     <Col xs={ 12 } sm={ 12 } md={ 4 } lg={ 4 } className="text-center">

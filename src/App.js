@@ -8,6 +8,7 @@ import AboutUs from "./Pages/AboutUs/AboutUs";
 import Career from "./Pages/Career/Career";
 import Contact from "./Pages/Contact/Contact";
 import CoreTeam from "./Pages/CoreTeam/CoreTeam";
+import Services from "./Pages/Services/Services";
 
 function App () {
   return (
@@ -18,6 +19,7 @@ function App () {
         <Route exact path="/home" element={ <Home /> } />
         <Route exact path="/about" element={ <AboutUs /> } />
         <Route exact path="/core-team" element={ <CoreTeam /> } />
+        <Route exact path="/services" element={ <Services /> } />
         <Route exact path="/career" element={ <Career /> } />
         <Route exact path="/contact" element={ <Contact /> } />
         <Route exact path="*" element={ <PageNotFound /> } />

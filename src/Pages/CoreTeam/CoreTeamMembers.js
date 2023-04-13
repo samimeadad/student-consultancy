@@ -9,7 +9,7 @@ import { Link } from 'react-router-dom';
 
 const CoreTeamMembers = () => {
     return (
-        <Container className='text-center my-5'>
+        <Container className='text-center my-5 overflow-hidden w-100'>
             <Row className='g-5 my-5'>
                 <Col xs={ 12 } sm={ 12 } md={ 4 } lg={ 4 }>
                     <Card style={ { width: '22rem', height: "100%" } }>

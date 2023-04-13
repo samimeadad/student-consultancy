@@ -9,9 +9,9 @@ import { Col, Row } from 'react-bootstrap';
 
 const Header = () => {
     return (
-        <Navbar collapseOnSelect expand="lg" bg="light" variant="light" className='py-5'>
+        <Navbar collapseOnSelect expand="lg" bg="light" variant="light" className='py-5 overflow-hidden w-100'>
             <Container>
-                <Navbar.Brand>
+                <Navbar.Brand className='mb-2'>
                     <Row className='g-1'>
                         <Col xs={ 12 } sm={ 12 } md={ 3 } lg={ 3 }>
                             <Link to="/" className='text-dark text-decoration-none text-center'><img className='img-fluid' style={ { width: '75px' } } src={ logo } alt="logoImage" /></Link>

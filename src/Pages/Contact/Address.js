@@ -2,7 +2,7 @@ import React from 'react';
 
 const Address = () => {
     return (
-        <div>
+        <div className='overflow-hidden w-100'>
             <div className="card text-dark bg-light mb-4" style={ { maxWidth: "25rem" } }>
                 <div className="card-header"><h4>City-1 Office</h4></div>
                 <div className="card-body">

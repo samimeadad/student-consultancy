@@ -5,7 +5,7 @@ import MessageFromFounder from './MessageFromFounder';
 
 const AboutUs = () => {
     return (
-        <Container>
+        <Container className='overflow-hidden w-100'>
             <MessageFromFounder />
             <ScrollToTop smooth />
         </Container>

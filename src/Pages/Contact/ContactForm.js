@@ -22,7 +22,7 @@ const ContactForm = () => {
 
 
     return (
-        <div>
+        <div className='overflow-hidden w-100'>
             {
                 success ? <h6 className="text-success" style={ { marginLeft: "6rem" } }>{ successMessage }</h6> : <h6 className="text-danger" style={ { marginLeft: "6rem" } }>{ error }</h6>
             }

@@ -4,7 +4,7 @@ import banner from '../../images/aboutus/messagefromfounder-banner.jpg';
 
 const MessageFromFounder = () => {
     return (
-        <Container className='my-5 text-justified'>
+        <Container className='my-5 text-justified overflow-hidden w-100'>
             <div className="text-center mb-5 overflow-hidden w-100">
                 <img src={ banner } alt="bannerImage" className='img-fluid' />
             </div>

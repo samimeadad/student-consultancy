@@ -8,7 +8,7 @@ import ScrollToTop from 'react-scroll-to-top';
 
 const Contact = () => {
     return (
-        <div className='w-100' style={ { backgroundImage: `url(${ backgroundImage })`, backgroundSize: "cover", overflow: 'hidden' } }>
+        <div className='overflow-hidden w-100' style={ { backgroundImage: `url(${ backgroundImage })`, backgroundSize: "cover", overflow: 'hidden' } }>
             <Container className='my-5'>
                 <HeaderText />
                 <div className='my-5'>

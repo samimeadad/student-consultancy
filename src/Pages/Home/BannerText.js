@@ -3,7 +3,7 @@ import { Container } from 'react-bootstrap';
 
 const BannerText = () => {
     return (
-        <Container className='text-center my-5'>
+        <Container className='text-center my-5 overflow-hidden w-100'>
             <section className='my-5 text-center'>
                 <div className='my-5 text-center'>
                     <h1>Welcome to UK Student Consultancy Service</h1>

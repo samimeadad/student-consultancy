@@ -9,6 +9,7 @@ import { faPhoneVolume } from '@fortawesome/free-solid-svg-icons';
 const Footer = () => {
     return (
         <footer className="bg-light text-dark p-5 overflow-hidden w-100">
+            <div className="my-5"><br></br></div>
             <div className="text-center mb-5 overflow-hidden w-100">
                 <img style={ { width: '75px' } } src={ logo } alt="logoImage" className='img-fluid' />
             </div>

@@ -5,6 +5,8 @@ import whychooseus from '../../images/home/WhyChooseUs/whychooseus.jpeg';
 const WhyChooseUs = () => {
     return (
         <Container className='my-5'>
+            <div className="my-5"><br></br></div>
+            <div className="my-5"><br></br></div>
             <h1 className='text-dark my-5 text-center'>WHY CHOOSE US</h1>
             <Row className='g-5 my-5'>
                 <Col xs={ 12 } sm={ 12 } md={ 4 } lg={ 4 }>
@@ -34,6 +36,7 @@ const WhyChooseUs = () => {
                     <p>Our Co-Founder and CEO Jamie Beaton is only 26 but is a graduate of Harvard, Stanford and Oxford. Many university consultancies are run by people that don’t know what it's like to succeed at a competitive institution in the last 5-8 years...but we do!</p>
                 </Col>
             </Row>
+            <div className="my-5"><br></br></div>
             <Row className='g-2 my-5'>
                 <Col xs={ 12 } sm={ 12 } md={ 6 } lg={ 6 }>
                     <img src={ whychooseus } alt="" className='img-fluid' />
@@ -50,6 +53,8 @@ const WhyChooseUs = () => {
                     <h4><b>&#x2713;</b>Get the skills employers want</h4>
                 </Col>
             </Row>
+            <div className="my-5"><br></br></div>
+            <div className="my-5"><br></br></div>
         </Container>
     );
 };

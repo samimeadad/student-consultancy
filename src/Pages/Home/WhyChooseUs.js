@@ -46,8 +46,8 @@ const WhyChooseUs = () => {
                     <h4><b><span className='me-3'>&#x2713;</span></b>High Quality Education</h4>
                     <h4><b><span className='me-3'>&#x2713;</span></b>Short & flexible courses</h4>
                     <h4><b><span className='me-3'>&#x2713;</span></b>Affordable tuition fees</h4>
-                    <h4><b><span className='me-3'>&#x2713;</span></b>Unique British Culture</h4>
-                    <h4><b><span className='me-3'>&#x2713;</span></b>UK is the gateway of the rest of Europe</h4>
+                    <h4><b><span className='me-3'>&#x2713;</span></b>Diversified Cultural Traits</h4>
+                    <h4><b><span className='me-3'>&#x2713;</span></b>Work permit in Europe and America</h4>
                     <h4><b><span className='me-3'>&#x2713;</span></b>Scholarships and Financial Support</h4>
                     <h4><b><span className='me-3'>&#x2713;</span></b>Strong Research Infrastructure</h4>
                     <h4><b><span className='me-3'>&#x2713;</span></b>Get the skills employers want</h4>

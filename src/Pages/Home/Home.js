@@ -5,6 +5,7 @@ import MiddleBanner from './MiddleBanner';
 import WhyChooseUs from './WhyChooseUs';
 import ScrollToTop from 'react-scroll-to-top';
 import QuestionsAndAnswers from './QuestionsAndAnswers';
+import Countries from './Countries';
 
 const Home = () => {
     return (
@@ -13,6 +14,7 @@ const Home = () => {
             <BannerText />
             <MiddleBanner />
             <WhyChooseUs />
+            <Countries />
             <QuestionsAndAnswers />
             <ScrollToTop smooth />
         </div>

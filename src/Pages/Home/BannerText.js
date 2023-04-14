@@ -11,13 +11,13 @@ const BannerText = () => {
                 </div>
                 <div className='my-5 text-start w-75 m-auto' style={ { textAlign: "justify" } }>
                     <p style={ { textAlign: "justify" } }>
-                        UK Student Consultants was first founded in July 2012 in the heart of London and now operating from both London and Birmingham. We are an experienced and professional student consultancy firm and we provide the highest standards of academic tutoring, mentoring and admissions support.
+                        UK Student Consultants was first founded in July 2012 in the heart of London and now operating from many cities in the UK. We are an experienced and professional student consultancy firm and we provide the highest standards of academic tutoring, mentoring and admissions support.
                     </p>
                     <p style={ { textAlign: "justify" } }>
-                        What makes Path unique is our tutors actively teach in Britain’s leading independent schools and we hand-pick the best one to support you. Enabling direct access to Britain’s most qualified teachers through private one-to-one online lessons.
+                        What makes Student Consultancy unique is our tutors actively teach in world's leading independent college and universities and we hand-pick the best one to support you. Enabling direct access to Britain’s most qualified teachers through private one-to-one online lessons.
                     </p>
                     <p style={ { textAlign: "justify" } }>
-                        Our firms are registered to carry on student consultancy all over the UK.
+                        Our firms are registered to carry on student consultancy all over the World.
                     </p>
                 </div>
             </section>
